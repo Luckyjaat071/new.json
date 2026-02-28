@@ -1,0 +1,14 @@
+{
+  "matching_urls": [
+    "#/wallet/Recharge",
+    "#/saasLottery/WinGo?gameCode=WinGo_30S&lottery=WinGo",
+    "#/home/AllLotteryGames/WinTrx?id=4"
+  ],
+  "deposit_url": "https://www.92pak.org/#/wallet",
+  "login_url": "https://www.92pak.org/#/login",
+  "register_url": "https://www.92pak.org/#/register?invitationCode=86555140693",
+  "telegram_url": "https://whatsapp.com/channel/0029VbBxDjQ1t90egPb9Ic3y",
+  "home_url": "https://www.92pak.org/#/",
+  "minimum_deposit": 300,
+  "minimum_deposit_number": 500
+}
